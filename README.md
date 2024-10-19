@@ -16,7 +16,7 @@ Responsive user Registration and Login (SignIn & SignUp) Form functionality usin
 ![Screenshot (223)](https://github.com/user-attachments/assets/68654fa9-a285-4fec-a499-fff4b7d5c1ea)
 
 
-## ❓Requirements
+## Requirements
 
 Before going forward you must have **Node js** installed on your machine.  
 Go to the link below for installation if you don't have installed yet.
