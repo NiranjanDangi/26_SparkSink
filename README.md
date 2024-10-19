@@ -1,13 +1,19 @@
-# Login & Registration Form with MERN stack
+# Senior Citizen help alert to nearest nurse
 
 ## 👋 Introduction
 
 Responsive user Registration and Login (SignIn & SignUp) Form functionality using React, NodeJS, ExpressJS and MongoDB and Bootstrap.
 
 
-![Screenshot (219)](https://github.com/AkshataGanbote/Registration_Login_Form_MERN_Stack/assets/117456092/442bbe2d-cda7-4d5c-a156-9e9cc9b3f108)
+![Screenshot (219)]((https://github.com/user-attachments/assets/0e61ea17-24a4-466d-b04d-dc4ae7835647))
 
-![Screenshot (220)](https://github.com/AkshataGanbote/Registration_Login_Form_MERN_Stack/assets/117456092/01b04452-4e8b-4a24-b680-28c93f2c7550)
+![Screenshot (220)]((https://github.com/user-attachments/assets/7a43acf6-395b-4015-823f-a320b8b04db5))
+
+![Screenshot (221)](https://github.com/user-attachments/assets/51daa44a-d28e-42a2-8975-84df48dc32b9)
+
+![Screenshot (222)](https://github.com/user-attachments/assets/68654fa9-a285-4fec-a499-fff4b7d5c1ea)
+
+![Screenshot (223)](https://github.com/user-attachments/assets/68654fa9-a285-4fec-a499-fff4b7d5c1ea)
 
 
 ## ❓Requirements
@@ -55,6 +61,8 @@ This project uses the following technologies:
 - [Express](http://expressjs.com/) and [Node](https://nodejs.org/en/) for the backend
 - [MongoDB](https://www.mongodb.com/) for the database
 - [Bootstrap](https://getbootstrap.com/) for styling
+- [ReactLeaflet](https://react-leaflet.js.org/) for Maps
+- Real Time Traffic Informed Pathfinding (RRT) algorithm for finding nearby nurses
 
 <br/>
 
