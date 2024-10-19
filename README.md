@@ -12,7 +12,8 @@ Responsive user Registration and Login (SignIn & SignUp) Form functionality usin
 
 ![Screenshot (222)](https://github.com/user-attachments/assets/68654fa9-a285-4fec-a499-fff4b7d5c1ea)
 
-![Screenshot (223)](https://github.com/user-attachments/assets/68654fa9-a285-4fec-a499-fff4b7d5c1ea)
+![Screenshot](https://github.com/user-attachments/assets/9879edb0-2c9d-483e-a36f-2588d0625758)
+
 
 
 ## Requirements
